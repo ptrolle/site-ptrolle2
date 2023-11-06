@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/site-ptrolle2/static/css/main.758adfc3.css",
+    "main.js": "/site-ptrolle2/static/js/main.32746103.js",
+    "static/js/787.b2bde035.chunk.js": "/site-ptrolle2/static/js/787.b2bde035.chunk.js",
+    "index.html": "/site-ptrolle2/index.html",
+    "main.758adfc3.css.map": "/site-ptrolle2/static/css/main.758adfc3.css.map",
+    "main.32746103.js.map": "/site-ptrolle2/static/js/main.32746103.js.map",
+    "787.b2bde035.chunk.js.map": "/site-ptrolle2/static/js/787.b2bde035.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.758adfc3.css",
+    "static/js/main.32746103.js"
+  ]
+}
